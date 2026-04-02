@@ -1,0 +1,30 @@
+\newcommand{\grid}[2]{%
+\begin{tikzpicture}[line cap=round,line join=round,x=0.5cm,y=0.5cm]
+    \draw [xstep=0.5cm,ystep=0.5cm, gray!60, line width=0.2pt] (0.,0.) grid (#1, #2);
+    % \clip(0.,0.) rectangle (3.,3.);
+\end{tikzpicture}%
+}
+
+
+
+\NewDocumentCommand\samerowans{O{0.65}O{0.3}m}{\noindent\begin{minipage}{#1\linewidth}
+#3
+\end{minipage}%
+\hfill\fbox{\begin{minipage}{#2\linewidth}
+{\small\tt Ответ:}\raisebox{-5ex}{\rule{0pt}{7ex}}
+\end{minipage}}}
+
+\newcommand{\rowans}[1]{\par\noindent\centerline{\fbox{\begin{minipage}{.75\linewidth}
+{\small\tt Ответ:}\raisebox{-5ex}{\rule{0pt}{7ex}}
+\rule{0pt}{#1}
+\end{minipage}}}}
+
+\newenvironment{problem}[1]{\medskip\noindent\textbf{#1.}}{}
+
+
+\newcommand\samerowpic[4]{\noindent\begin{minipage}{#3\textwidth}
+#1
+\end{minipage}%
+\begin{minipage}{#4\textwidth}
+\includegraphics[width=.9\textwidth]{#2}
+\end{minipage}}
