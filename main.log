@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.28)  3 APR 2026 13:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.28)  3 APR 2026 17:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -876,20 +876,20 @@ Package hyperref Info: Link coloring ON on input line 94.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
- (20260404/7_inzh_3.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+ (train_exams/20260404/7_inzh_1.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 11.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 13.
  (C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 35--36
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 37--38
 [] 
  []
 
@@ -898,302 +898,302 @@ Overfull \hbox (0.1995pt too wide) in paragraph at lines 35--36
 [1
 
 {C:/Users/Olga/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 89--90
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 91--92
 [] 
  []
 
-<20260404/pics/20260404_inzh_7_v1.png, id=19, 182.34651pt x 134.3286pt>
-File: 20260404/pics/20260404_inzh_7_v1.png Graphic file (type png)
-<use 20260404/pics/20260404_inzh_7_v1.png>
-Package pdftex.def Info: 20260404/pics/20260404_inzh_7_v1.png  used on input line 107.
+<train_exams/20260404/pics/20260404_inzh_7_v1.png, id=19, 182.34651pt x 134.3286pt>
+File: train_exams/20260404/pics/20260404_inzh_7_v1.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_inzh_7_v1.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_inzh_7_v1.png  used on input line 109.
 (pdftex.def)             Requested size: 145.11053pt x 106.89935pt.
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 121--122
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 123--124
 [] 
  []
 
 
 
-[2 <./20260404/pics/20260404_inzh_7_v1.png>]
-<20260404/pics/20260404_inzh_10_v1.png, id=28, 228.46153pt x 186.80539pt>
-File: 20260404/pics/20260404_inzh_10_v1.png Graphic file (type png)
-<use 20260404/pics/20260404_inzh_10_v1.png>
-Package pdftex.def Info: 20260404/pics/20260404_inzh_10_v1.png  used on input line 130.
+[2 <./train_exams/20260404/pics/20260404_inzh_7_v1.png>]
+<train_exams/20260404/pics/20260404_inzh_10_v1.png, id=28, 228.46153pt x 186.80539pt>
+File: train_exams/20260404/pics/20260404_inzh_10_v1.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_inzh_10_v1.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_inzh_10_v1.png  used on input line 132.
 (pdftex.def)             Requested size: 145.11053pt x 118.6543pt.
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 133--135
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 135--137
 []
  []
 
 
 
-[3 <./20260404/pics/20260404_inzh_10_v1.png>])
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 149--100
+[3 <./train_exams/20260404/pics/20260404_inzh_10_v1.png>])
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 151--100
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--100
+Underfull \hbox (badness 10000) in paragraph at lines 151--100
 
  []
 
 
 
-[4] (20260404/7_inzh_4.tex
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[4] (train_exams/20260404/7_inzh_2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
 \T2A/cmr/bx/n/12 1 (2 бал-ла). \T2A/cmr/m/n/12 Най-ди-те зна-че-ние вы-ра-же-ния
  []
 
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 36--37
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 38--39
 [] 
  []
 
 
 
 [5]
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 90--91
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 92--93
 [] 
  []
 
-File: 20260404/pics/20260404_inzh_7_v1.png Graphic file (type png)
-<use 20260404/pics/20260404_inzh_7_v1.png>
-Package pdftex.def Info: 20260404/pics/20260404_inzh_7_v1.png  used on input line 108.
+File: train_exams/20260404/pics/20260404_inzh_7_v1.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_inzh_7_v1.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_inzh_7_v1.png  used on input line 110.
 (pdftex.def)             Requested size: 145.11053pt x 106.89935pt.
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 122--123
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 124--125
 [] 
  []
 
 
 
 [6]
-File: 20260404/pics/20260404_inzh_10_v1.png Graphic file (type png)
-<use 20260404/pics/20260404_inzh_10_v1.png>
-Package pdftex.def Info: 20260404/pics/20260404_inzh_10_v1.png  used on input line 131.
+File: train_exams/20260404/pics/20260404_inzh_10_v1.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_inzh_10_v1.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_inzh_10_v1.png  used on input line 133.
 (pdftex.def)             Requested size: 145.11053pt x 118.6543pt.
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 134--136
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 136--138
 []
  []
 
 
 
 [7])
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 150--104
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 152--104
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--104
+Underfull \hbox (badness 10000) in paragraph at lines 152--104
 
  []
 
 
 
-[8] (20260404/7_alg_for_mat_1.tex
-Overfull \hbox (6.31638pt too wide) detected at line 65
+[8] (train_exams/20260404/7_alg_for_mat_1.tex
+Overfull \hbox (6.31638pt too wide) detected at line 67
 \OT1/cmr/m/n/12 8\OML/cmm/m/it/12 x[] \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 (5 \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )(3\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 + 5) + 11\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 = (1 + 2\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )(4\OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 + 1 \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 (1 \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 9\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )(\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 + 2)
  []
 
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 75--76
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 77--78
 [] 
  []
 
 
 
 [9]
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 128--129
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 130--131
 [] 
  []
 
 
 
 [10]
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 138--139
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 140--141
 [] 
  []
 
 
 
 [11])
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 170--108
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 172--108
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--108
+Underfull \hbox (badness 10000) in paragraph at lines 172--108
 
  []
 
 
 
-[12] (20260404/7_alg_for_mat_2.tex
-Overfull \hbox (6.31638pt too wide) detected at line 65
+[12] (train_exams/20260404/7_alg_for_mat_2.tex
+Overfull \hbox (6.31638pt too wide) detected at line 67
 \OT1/cmr/m/n/12 27\OML/cmm/m/it/12 x[] \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 (4 \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )(2\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 + 4) + 7\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 = (1 + 3\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )(9\OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 + 1 \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 (1 \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 4\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )(\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 + 3)
  []
 
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 75--76
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 77--78
 [] 
  []
 
 
 
 [13]
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 128--129
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 130--131
 [] 
  []
 
 
 
 [14]
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 138--139
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 140--141
 [] 
  []
 
 
 
 [15])
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 170--112
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 172--112
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--112
+Underfull \hbox (badness 10000) in paragraph at lines 172--112
 
  []
 
 
 
-[16] (20260404/7_geom_for_mat_1.tex
-<20260404/pics/20260404_geom_for_mat_01_v1.png, id=90, 166.26534pt x 85.40497pt>
-File: 20260404/pics/20260404_geom_for_mat_01_v1.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_01_v1.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_01_v1.png  used on input line 5.
+[16] (train_exams/20260404/7_geom_for_mat_1.tex
+<train_exams/20260404/pics/20260404_geom_for_mat_01_v1.png, id=90, 166.26534pt x 85.40497pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_01_v1.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_01_v1.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_01_v1.png  used on input line 7.
 (pdftex.def)             Requested size: 145.11053pt x 74.54408pt.
-<20260404/pics/20260404_geom_for_mat_02a_v1.png, id=91, 193.06322pt x 115.58052pt>
-File: 20260404/pics/20260404_geom_for_mat_02a_v1.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_02a_v1.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_02a_v1.png  used on input line 11.
+<train_exams/20260404/pics/20260404_geom_for_mat_02a_v1.png, id=91, 193.06322pt x 115.58052pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_02a_v1.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_02a_v1.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_02a_v1.png  used on input line 13.
 (pdftex.def)             Requested size: 145.11053pt x 86.8721pt.
-<20260404/pics/20260404_geom_for_mat_02b_v1.png, id=92, 145.70564pt x 117.77873pt>
-File: 20260404/pics/20260404_geom_for_mat_02b_v1.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_02b_v1.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_02b_v1.png  used on input line 17.
+<train_exams/20260404/pics/20260404_geom_for_mat_02b_v1.png, id=92, 145.70564pt x 117.77873pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_02b_v1.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_02b_v1.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_02b_v1.png  used on input line 19.
 (pdftex.def)             Requested size: 145.11053pt x 117.2986pt.
-<20260404/pics/20260404_geom_for_mat_03_v1.png, id=93, 221.00917pt x 154.92743pt>
-File: 20260404/pics/20260404_geom_for_mat_03_v1.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_03_v1.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_03_v1.png  used on input line 23.
+<train_exams/20260404/pics/20260404_geom_for_mat_03_v1.png, id=93, 221.00917pt x 154.92743pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_03_v1.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_03_v1.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_03_v1.png  used on input line 25.
 (pdftex.def)             Requested size: 145.11053pt x 101.72523pt.
-<20260404/pics/20260404_geom_for_mat_04_v1.png, id=94, 158.83516pt x 150.25807pt>
-File: 20260404/pics/20260404_geom_for_mat_04_v1.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_04_v1.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_04_v1.png  used on input line 29.
+<train_exams/20260404/pics/20260404_geom_for_mat_04_v1.png, id=94, 158.83516pt x 150.25807pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_04_v1.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_04_v1.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_04_v1.png  used on input line 31.
 (pdftex.def)             Requested size: 145.11053pt x 137.27843pt.
 
 
-[17 <./20260404/pics/20260404_geom_for_mat_01_v1.png> <./20260404/pics/20260404_geom_for_mat_02a_v1.png> <./20260404/pics/20260404_geom_for_mat_02b_v1.png> <./20260404/pics/20260404_geom_for_mat_03_v1.png>]
-<20260404/pics/20260404_geom_for_mat_07.png, id=103, 233.8835pt x 178.60902pt>
-File: 20260404/pics/20260404_geom_for_mat_07.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_07.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_07.png  used on input line 52.
+[17 <./train_exams/20260404/pics/20260404_geom_for_mat_01_v1.png> <./train_exams/20260404/pics/20260404_geom_for_mat_02a_v1.png> <./train_exams/20260404/pics/20260404_geom_for_mat_02b_v1.png> <./train_exams/20260404/pics/20260404_geom_for_mat_03_v1.png>]
+<train_exams/20260404/pics/20260404_geom_for_mat_07.png, id=103, 233.8835pt x 178.60902pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_07.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_07.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_07.png  used on input line 54.
 (pdftex.def)             Requested size: 145.11053pt x 110.81819pt.
-<20260404/pics/20260404_geom_for_mat_08.png, id=104, 343.48293pt x 293.20317pt>
-File: 20260404/pics/20260404_geom_for_mat_08.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_08.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_08.png  used on input line 58.
+<train_exams/20260404/pics/20260404_geom_for_mat_08.png, id=104, 343.48293pt x 293.20317pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_08.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_08.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_08.png  used on input line 60.
 (pdftex.def)             Requested size: 145.11053pt x 123.87373pt.
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 62--63
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 64--65
 [] 
  []
 
 
 
-[18 <./20260404/pics/20260404_geom_for_mat_04_v1.png> <./20260404/pics/20260404_geom_for_mat_07.png> <./20260404/pics/20260404_geom_for_mat_08.png>]
-<20260404/pics/20260404_geom_for_mat_09_v1.png, id=112, 343.48293pt x 287.13295pt>
-File: 20260404/pics/20260404_geom_for_mat_09_v1.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_09_v1.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_09_v1.png  used on input line 70.
+[18 <./train_exams/20260404/pics/20260404_geom_for_mat_04_v1.png> <./train_exams/20260404/pics/20260404_geom_for_mat_07.png> <./train_exams/20260404/pics/20260404_geom_for_mat_08.png>]
+<train_exams/20260404/pics/20260404_geom_for_mat_09_v1.png, id=112, 343.48293pt x 287.13295pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_09_v1.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_09_v1.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_09_v1.png  used on input line 72.
 (pdftex.def)             Requested size: 145.11053pt x 121.30916pt.
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 74--75
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 76--77
 [] 
  []
 
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 84--85
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 86--87
 [] 
  []
 
 )
 
-[19 <./20260404/pics/20260404_geom_for_mat_09_v1.png>] (20260404/7_geom_for_mat_2.tex
-<20260404/pics/20260404_geom_for_mat_01_v2.png, id=119, 159.41911pt x 79.70956pt>
-File: 20260404/pics/20260404_geom_for_mat_01_v2.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_01_v2.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_01_v2.png  used on input line 5.
+[19 <./train_exams/20260404/pics/20260404_geom_for_mat_09_v1.png>] (train_exams/20260404/7_geom_for_mat_2.tex
+<train_exams/20260404/pics/20260404_geom_for_mat_01_v2.png, id=119, 159.41911pt x 79.70956pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_01_v2.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_01_v2.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_01_v2.png  used on input line 7.
 (pdftex.def)             Requested size: 145.11053pt x 72.56013pt.
-<20260404/pics/20260404_geom_for_mat_02a_v2.png, id=120, 185.625pt x 121.83188pt>
-File: 20260404/pics/20260404_geom_for_mat_02a_v2.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_02a_v2.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_02a_v2.png  used on input line 11.
+<train_exams/20260404/pics/20260404_geom_for_mat_02a_v2.png, id=120, 185.625pt x 121.83188pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_02a_v2.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_02a_v2.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_02a_v2.png  used on input line 13.
 (pdftex.def)             Requested size: 145.11053pt x 95.24783pt.
-<20260404/pics/20260404_geom_for_mat_02b_v2.png, id=121, 149.1128pt x 106.41682pt>
-File: 20260404/pics/20260404_geom_for_mat_02b_v2.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_02b_v2.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_02b_v2.png  used on input line 17.
+<train_exams/20260404/pics/20260404_geom_for_mat_02b_v2.png, id=121, 149.1128pt x 106.41682pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_02b_v2.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_02b_v2.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_02b_v2.png  used on input line 19.
 (pdftex.def)             Requested size: 145.11053pt x 103.56192pt.
-<20260404/pics/20260404_geom_for_mat_03_v2.png, id=122, 221.00917pt x 154.92743pt>
-File: 20260404/pics/20260404_geom_for_mat_03_v2.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_03_v2.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_03_v2.png  used on input line 23.
+<train_exams/20260404/pics/20260404_geom_for_mat_03_v2.png, id=122, 221.00917pt x 154.92743pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_03_v2.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_03_v2.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_03_v2.png  used on input line 25.
 (pdftex.def)             Requested size: 145.11053pt x 101.72523pt.
-<20260404/pics/20260404_geom_for_mat_04_v2.png, id=123, 158.83516pt x 150.25807pt>
-File: 20260404/pics/20260404_geom_for_mat_04_v2.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_04_v2.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_04_v2.png  used on input line 29.
+<train_exams/20260404/pics/20260404_geom_for_mat_04_v2.png, id=123, 158.83516pt x 150.25807pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_04_v2.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_04_v2.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_04_v2.png  used on input line 31.
 (pdftex.def)             Requested size: 145.11053pt x 137.27843pt.
 
 
-[20 <./20260404/pics/20260404_geom_for_mat_01_v2.png> <./20260404/pics/20260404_geom_for_mat_02a_v2.png> <./20260404/pics/20260404_geom_for_mat_02b_v2.png> <./20260404/pics/20260404_geom_for_mat_03_v2.png>]
-File: 20260404/pics/20260404_geom_for_mat_07.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_07.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_07.png  used on input line 52.
+[20 <./train_exams/20260404/pics/20260404_geom_for_mat_01_v2.png> <./train_exams/20260404/pics/20260404_geom_for_mat_02a_v2.png> <./train_exams/20260404/pics/20260404_geom_for_mat_02b_v2.png> <./train_exams/20260404/pics/20260404_geom_for_mat_03_v2.png>]
+File: train_exams/20260404/pics/20260404_geom_for_mat_07.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_07.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_07.png  used on input line 54.
 (pdftex.def)             Requested size: 145.11053pt x 110.81819pt.
-File: 20260404/pics/20260404_geom_for_mat_08.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_08.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_08.png  used on input line 58.
+File: train_exams/20260404/pics/20260404_geom_for_mat_08.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_08.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_08.png  used on input line 60.
 (pdftex.def)             Requested size: 145.11053pt x 123.87373pt.
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 62--63
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 64--65
 [] 
  []
 
 
 
-[21 <./20260404/pics/20260404_geom_for_mat_04_v2.png>]
-<20260404/pics/20260404_geom_for_mat_09_v2.png, id=137, 346.34186pt x 348.30446pt>
-File: 20260404/pics/20260404_geom_for_mat_09_v2.png Graphic file (type png)
-<use 20260404/pics/20260404_geom_for_mat_09_v2.png>
-Package pdftex.def Info: 20260404/pics/20260404_geom_for_mat_09_v2.png  used on input line 70.
+[21 <./train_exams/20260404/pics/20260404_geom_for_mat_04_v2.png>]
+<train_exams/20260404/pics/20260404_geom_for_mat_09_v2.png, id=137, 346.34186pt x 348.30446pt>
+File: train_exams/20260404/pics/20260404_geom_for_mat_09_v2.png Graphic file (type png)
+<use train_exams/20260404/pics/20260404_geom_for_mat_09_v2.png>
+Package pdftex.def Info: train_exams/20260404/pics/20260404_geom_for_mat_09_v2.png  used on input line 72.
 (pdftex.def)             Requested size: 145.11053pt x 145.9361pt.
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 74--75
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 76--77
 [] 
  []
 
 
-Overfull \hbox (0.1995pt too wide) in paragraph at lines 84--85
+Overfull \hbox (0.1995pt too wide) in paragraph at lines 86--87
 [] 
  []
 
 )
 
-[22 <./20260404/pics/20260404_geom_for_mat_09_v2.png>]
+[22 <./train_exams/20260404/pics/20260404_geom_for_mat_09_v2.png>]
 
 [23] (main.aux)
  ***********
@@ -1205,12 +1205,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  24174 strings out of 468079
- 448304 string characters out of 5435820
+ 450128 string characters out of 5435820
  845333 words of memory out of 5000000
  52407 multiletter control sequences out of 15000+600000
  636712 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,91p,1430b,498s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,91p,1442b,498s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Olga\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Olga\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1095.pk> <C:\Users\Olga\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Olga\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
 Output written on main.pdf (23 pages, 2444717 bytes).
 PDF statistics:
