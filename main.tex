@@ -4,118 +4,57 @@
 \usepackage[T2A]{fontenc}
 \usepackage[russian]{babel}
 \usepackage{graphicx}
-\usepackage[margin=2truecm,a4paper]{geometry}
-\usepackage{array}
-\usepackage{tikz}
+\usepackage[top=1.5cm, bottom=2cm, left=2cm, right=2cm, includehead, a4paper]{geometry}
 \usepackage{amsmath}
 \usepackage{amssymb}
-\usepackage{multicol}
-\usepackage{fancyhdr}
-
-
 \usepackage{tikz}
+\usepackage{tabularx}
+\usepackage{array} % ОБЯЗАТЕЛЬНО для таблиц с параметром m{} и C{}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{pgffor} 
+
 \usetikzlibrary{quotes, angles, calc, decorations.markings}
 
+% --- НАСТРОЙКИ ДЛЯ ВАШЕЙ ТАБЛИЦЫ БАЛЛОВ ---
+\newlength{\GFrowwidth}
+\setlength{\GFrowwidth}{0.8cm}
+\newlength{\hhhh}
+\setlength{\hhhh}{5pt}
+\setlength{\arrayrulewidth}{1.5pt}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
+% ------------------------------------------
 
+% --- ЕДИНЫЙ БЛОК НАСТРОЕК КОЛОНТИТУЛОВ ---
 \pagestyle{fancy}
-\fancyhf{}
-\renewcommand{\headrulewidth}{0pt} % Remove header rule
-\setlength{\headheight}{2truecm} % Increase header height
-\setlength{\headsep}{0.5truecm}    % Adjust space between header and text (optional)
+\fancyhf{} 
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\headheight}{15pt}
+\setlength{\headsep}{15pt}
 
-
-\fancypagestyle{regular}{%
-% \fancyhead[R]{%
-%  \raisebox{0.15truecm}{\raisebox{0.15truecm}{\texttt{code001}}}~~\includegraphics[width=1truecm]{qrcodes/\thepage.pdf}
-% }
-\fancyhead[L]{%
-\raisebox{0.3truecm}%{\textsl{Автор решений, номер варианта }\line(1,0){300}}}
-%{\textsl{Экзамен в 5 гимназический класс, вариант 1, 17.05.2025}}
-% {\textsl{Демо-экзамен, вариант 2, 5 гимназический класс, 26.04.2025}}
-%{\textsl{Демо-экзамен в 8 мат. и IT классы 1514, вариант 2, 27.04.2025}}
-}
-}
-
-
-
-\fancypagestyle{fio}{%
-% \fancyhead[R]{%
-%  \raisebox{0.15truecm}{\raisebox{0.15truecm}{\texttt{code001}}}~~\includegraphics[width=1truecm]{qrcodes/\thepage.pdf}
-% }
-\fancyhead[L]{%
-\phantom{\raisebox{0.3truecm}%{\textsl{Автор решений, номер варианта }\line(1,0){300}}}
- {\textsl{5 класс. Решения и ответы}}
-{\textsl{Д}}}
-}
-}
-
-
-\newcommand\mytitle{\begin{center}
-
-\textsc{Школа №1514. Экзаменационная работа по математике \\ для поступающих в 5 класс}
-
-\medskip
-
-\texttt{Демонстрационный вариант 4, 01 марта 2026. Продолжительность 60 минут}
-\end{center}}
-
-% \newcommand\mytitletwo{\begin{center}
-
-% \textsc{Школа №1514. Экзаменационная работа по математике \\ для поступающих в 5 гимназический класс}
-
-% \medskip
-
-% \texttt{Демонстрационный вариант 2, 17 мая 2025. Продолжительность 60 минут}
-% \end{center}}
-
-
-%\fancypagestyle{aux}{%
-% \fancyhead[R]{%
-%  \raisebox{0.15truecm}{\texttt{code}\rule{3truecm}{1pt}~~\includegraphics[width=1truecm]{qrcodes/\thepage.pdf}}
-% }
-%\fancyhead[R]{%
-% \raisebox{0.15truecm}{{\setlength{\fboxrule}{2pt}\fbox{\makebox[3truecm]{\rule{0pt}{0.7truecm}}}}}~~\includegraphics[width=1truecm]{qrcodes/1.pdf}
-%}
-%\fancyhead[L]{%
-%\raisebox{0.3truecm}%{\textsl{Диагностическая работа, 7 класс}}
-%}
-%}
 
 \input{commands}
 
-\usepackage{color}   %May be necessary if you want to color links
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks=true, %set true if you want colored links
-    linktoc=all,     %set to all if you want both sections and subsections linked
-    linkcolor=blue,  %choose some color if you want links to stand out
-}
+\newcommand\mytitle{\begin{center}
+\textsc{Школа №1514. Экзаменационная работа по математике \\ для поступающих в 5 класс}
+\medskip
+\texttt{Демонстрационный вариант 4, 01 марта 2026. Продолжительность 60 минут}
+\end{center}}
 
 \begin{document}
 
-
-%\input{title_compact_4_1}
-
-\input{train_exams/20260404/7_inzh_1.tex}
+\input{train_exams/4for5_gimn/20260426_var1.tex}
 
 \newpage
 
-\input{train_exams/20260404/7_inzh_2.tex}
+\input{train_exams/4for5_gimn/20260426_var2.tex}
 
 \newpage
 
-\input{train_exams/20260404/7_alg_for_mat_1}
+\input{train_exams/4for5_gimn/20260426_var3.tex}
 
 \newpage
 
-\input{train_exams/20260404/7_alg_for_mat_2}
-
-\newpage
-
-\input{train_exams/20260404/7_geom_for_mat_1}
-
-\newpage
-
-\input{train_exams/20260404/7_geom_for_mat_2}
+\input{train_exams/4for5_gimn/20260426_var4.tex}
 
 \end{document}
